@@ -1,0 +1,1 @@
+export { default } from 'word-blink/components/word-blink';
